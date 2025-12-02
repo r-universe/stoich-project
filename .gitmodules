@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "stoichUtilities"]
+	path = stoichUtilities
+	url = https://github.com/stoich-project/stoich-utilities
+	subdir = stoichUtilities
